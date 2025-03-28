@@ -1,0 +1,58 @@
+Workshop Title: Fundamentals of Cloud Computing & Business Applications  
+
+Workshop Objective:
+To educate employees on the core concepts of cloud computing, its benefits, and real-world business applications to enhance organizational adaptability and efficiency.    
+1.	Introduction to Cloud Computing  
+     -Definition & Key Characteristics
+     - On-demand self-service  
+     - Broad network access  
+     - Resource pooling  
+     - Rapid elasticity  
+     - Measured service  
+     - Evolution of Cloud Computing (From Mainframes to Virtualization to Cloud)  
+      - Why Businesses Are Adopting Cloud? (Cost efficiency, scalability, agility)  
+
+2. Cloud Service Models 
+   Infrastructure as a Service (IaaS)(e.g., AWS EC2, Azure VMs)  
+   Platform as a Service (PaaS) (e.g., Google App Engine, Heroku)  
+   Software as a Service (SaaS) (e.g., Salesforce, Microsoft 365)  
+   Use Case Discussion:Which model fits different business needs?  
+
+3. Cloud Deployment Models 
+   Public Cloud(AWS, Google Cloud, Azure)  
+   Private Cloud (On-premises or hosted)  
+   Hybrid Cloud (Combining public & private)  
+   Multi-Cloud (Using multiple providers)  
+4. Business Benefits & Applications 
+   -Cost Savings (Pay-as-you-go vs. CapEx)  
+   - Scalability & Flexibility (Handling peak loads, global expansion)  
+   - Disaster Recovery & Business Continuity
+   - Collaboration & Remote Work Enablement(e.g., Teams, Slack, Google Workspace)  
+   - AI & Big Data in the Cloud (e.g., AWS SageMaker, Google BigQuery)  
+   - Case Studies:
+     - Netflix (Scalability on AWS)  
+     - Zoom (Rapid scaling during pandemic)  
+     - Startups leveraging cloud for agility  
+
+5. Security & Compliance in the Cloud 
+   - Shared Responsibility Model (Provider vs. Customer responsibilities)  
+   - Data Encryption & Access Control
+   - Compliance Standards (GDPR, HIPAA, ISO 27001)  
+   - Best Practices for Secure Cloud Adoption  
+
+6. Hands-On Activity / Demo 
+     - Live Demo:
+     - Deploying a simple web app on AWS/Azure/Google Cloud  
+     - Exploring cloud storage (e.g., S3, Google Drive)  
+
+7. Q&A & Wrap-Up (20 mins)
+   - Open floor for questions  
+   - Key takeaways & next steps for cloud adoption in the organization.
+
+Target Audience 
+- IT Teams, Business Leaders, Operations Managers, and employees interested in digital transformation.  
+
+Outcome:
+Employees will gain a foundational understanding of cloud computing, recognize its business value, and identify opportunities for cloud adoption in their workflows.  
+
+
