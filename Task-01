@@ -1,0 +1,75 @@
+Cloud Computing Basics: A Beginner's Guide
+What is Cloud Computing?
+Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet ("the cloud") 
+to offer faster innovation, flexible resources, and economies of scale.
+
+Key Characteristics:
+•	On-demand self-service: Users can provision resources as needed without human interaction
+•	Broad network access: Services available over the network through standard mechanisms
+•	Resource pooling: Provider's computing resources are pooled to serve multiple consumers
+•	Rapid elasticity: Capabilities can be elastically provisioned and released
+•	Measured service: Resource usage can be monitored, controlled, and reported
+
+Types of Cloud Services
+1. Infrastructure as a Service (IaaS)
+•	Provides basic computing infrastructure: servers, storage, networking
+•	Example: AWS EC2, Azure Virtual Machines, Google Compute Engine
+•	Use case: When you need complete control over your infrastructure
+
+2. Platform as a Service (PaaS)
+•	Provides platform for developing, testing, and managing applications
+•	Example: AWS Elastic Beanstalk, Azure App Service, Google App Engine
+•	Use case: When developers want to focus on code without managing infrastructure
+
+3. Software as a Service (SaaS)
+•	Delivers software applications over the internet
+•	Example: Gmail, Salesforce, Microsoft 365
+•	Use case: When you want ready-to-use applications without installation
+
+Deployment Models
+Public Cloud
+•	Owned and operated by third-party providers
+•	Available to anyone over the internet
+•	Best for: Startups, businesses with variable workloads
+
+Private Cloud
+•	Used exclusively by a single organization
+•	May be physically located on company premises
+•	Best for: Organizations with strict compliance requirements
+
+Hybrid Cloud
+•	Combines public and private clouds
+•	Allows data and applications to be shared between them
+•	Best for: Businesses that want flexibility and optimization
+
+Common Cloud Use Cases:
+1.	Data Storage and Backup: Secure file storage with services like Dropbox, Google Drive
+2.	Web Applications: Hosting websites and web apps (Netflix runs on AWS)
+3.	Big Data Analytics: Processing large datasets (Twitter analytics)
+4.	Disaster Recovery: Cloud-based backup solutions
+5.	Software Development: Cloud IDEs and testing environments
+6.	AI and Machine Learning: Cloud-based AI services (AWS SageMaker)
+
+
+
+CLOUD COMPUTING VS TRADITIONAL IT
+    FEATURE	    CLOUD COMPUTING	      TRADITIONAL IT
+      Cost	    Operational Expense	     Capital Expense 
+      Maintenance	    Provider Handles	     In-house team required
+      Scalability	    Instant And Elastic	     Requires New Hardware
+      Accessibility	    Anywhere And Internet 	     Local Network Only
+      Deployment Speed	    Minutes	     Weeks To Months
+
+
+Key Takeaways
+1.	Cloud computing provides on-demand access to computing resources
+2.	It offers significant cost savings over traditional IT infrastructure
+3.	The three main service models are IaaS, PaaS, and SaaS
+4.	Major benefits include scalability, reliability, and security
+5.	All businesses—from startups to enterprises—can benefit from cloud adoption
+
+
+
+
+
+
